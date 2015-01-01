@@ -1,5 +1,5 @@
 // switch
-//This was the bad commit
+//This is the good commit
 package main
 
 import (
